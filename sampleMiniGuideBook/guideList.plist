@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>フーチャ</key>
+	<dict>
+		<key>description</key>
+		<string>スリル満点！際までいくとウミガメ遭遇率９８％です。</string>
+		<key>image</key>
+		<string>fucha.jpg</string>
+		<key>latitude</key>
+		<string>27.437696</string>
+		<key>longitude</key>
+		<string>128.687132</string>
+	</dict>
+	<key>越山公園</key>
+	<dict>
+		<key>description</key>
+		<string>夜のデートスポット！街灯が少ないため満天の星空を見ることができます。</string>
+		<key>image</key>
+		<string>koshi.jpg</string>
+		<key>latitude</key>
+		<string>27.38981</string>
+		<key>longitude</key>
+		<string>128.612444</string>
+	</dict>
+	<key>田皆岬</key>
+	<dict>
+		<key>description</key>
+		<string>とにかく気持ちいい景色！柵がないので注意が必要ですが、天気が良ければ与論島や沖縄も見ることができます。</string>
+		<key>image</key>
+		<string>tamina.jpg</string>
+		<key>latitude</key>
+		<string>27.404034</string>
+		<key>longitude</key>
+		<string>128.537693</string>
+	</dict>
+	<key>ワンジョビーチ</key>
+	<dict>
+		<key>description</key>
+		<string>海水浴にぴったり！シャワールームがあるのでBBQやキャンプもできます。注）電波弱めです。</string>
+		<key>image</key>
+		<string>wanjo.jpg</string>
+		<key>latitude</key>
+		<string>27.408976</string>
+		<key>longitude</key>
+		<string>128.634604</string>
+	</dict>
+	<key>ウジジ浜</key>
+	<dict>
+		<key>description</key>
+		<string>朝日が映えるスポット！早起きして行ってみませんか？</string>
+		<key>image</key>
+		<string>ujiji.jpg</string>
+		<key>latitude</key>
+		<string>27.343344</string>
+		<key>longitude</key>
+		<string>128.601376</string>
+	</dict>
+</dict>
+</plist>
